@@ -29,5 +29,6 @@
 	4.得到"同身份患者检索实验"训练数据集：ecg-retrieval\data\get-ecg-recognition-data.ipynb
 	5.ecg去噪：ecg-retrieval\data\ecg-data-denosing.ipynb
 训练和评估：
+
 	相似患者检索实验：ecg-retrieval\trainjob\ecg-retrieval-similar-trainjob.ipynb
 	同身份患者检索实验：ecg-retrieval\trainjob\ecg-retrieval-regconition-trainjob.ipynb
